@@ -32,8 +32,7 @@ Per ogni esercitazione sono disponibili:
 ---
 
 ## Autore
-Giuseppe Donatellis, studente magistrale in Scienze Naturali – Università degli Studi di Napoli Federico II
-Corso: GIS e Cartografia Geotematica
+Giuseppe Donatellis, studente magistrale in Scienze Naturali – Università degli Studi di Napoli Federico II / Corso: GIS e Cartografia Geotematica
 
 ---
 
