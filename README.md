@@ -38,7 +38,7 @@ Corso: GIS e Cartografia Geotematica
 ---
 
 ## Software utilizzato
-- PostgreSQL (v.15+)
+- PostgreSQL (v.17)
 - PostGIS (estensione spaziale)
 - pgAdmin 4 (ambiente di gestione database)
 - QGIS (per la verifica e visualizzazione dei dati)
